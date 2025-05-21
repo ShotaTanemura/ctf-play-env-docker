@@ -1,0 +1,11 @@
+{
+	"name": "Existing Docker Compose (Extend)",
+
+	"dockerComposeFile": [
+		"../compose.yml"
+	],
+
+	"service": "ctf-playground",
+
+	"workspaceFolder": "/workspaces"
+}
