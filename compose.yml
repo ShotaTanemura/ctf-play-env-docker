@@ -1,0 +1,6 @@
+services:
+  ctf-playground:
+    container_name: ctf-playground
+    build:
+      context: ./
+      dockerfile: Dockerfile
